@@ -22,4 +22,4 @@ the contributing authors of graum.xyz are:
 
 ## License
 
-all texts of graum.xyz are licensed under CC BY-SA 4.0 - see the [LICENSE.md](LICENSE.md) file for details
+all texts of graum.xyz are licensed under CC BY-SA 4.0 - see the [license.md](license.md) file for details
