@@ -4,19 +4,21 @@ graum.xyz is a berlin based publishing project which mainly focusses on contempo
 
 graum.xyz was founded in 2015
 
+more information and detail at [graum.xyz](https://www.graum.xyz)
+
 ## writing on github
 
-in this repo you find all finished texts of the projects as a complete set for convenient download
+in this repo you find all finished texts of the project as a complete set for convenient download
 
-we are planning to translate all texts to english (and possibly other languages in the future) and will attempt to this here
+we are planning to translate all texts to english (and possibly other languages in the future) and will attempt to do this here
 
 ## Authors
 
-the contributing authors of graum.xyz are
-frauke beyer
-micha bonk
-michael ebert-hanke
-lätitia norkeit
+the contributing authors of graum.xyz are:
+- frauke beyer
+- micha bonk
+- michael ebert-hanke
+- lätitia norkeit
 
 ## License
 
