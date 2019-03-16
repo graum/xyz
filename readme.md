@@ -1,8 +1,8 @@
 # graum.xyz - space for libre text and poetry
 
-graum.xyz is a berlin based publishing project which mainly focusses on contemporary poetry and any form of experimental writig
+graum.xyz is a berlin based publishing project which mainly focusses on contemporary poetry and any form of experimental writing
 
-graum.xyz was founded in 2015
+graum.xyz was founded in 2015 by [michael ebert-hanke](http://www.ebert-hanke.de) and is run by him as editor
 
 more information and detail at [graum.xyz](https://www.graum.xyz)
 
