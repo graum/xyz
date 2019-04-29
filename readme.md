@@ -20,6 +20,9 @@ the contributing authors of graum.xyz are:
 - michael ebert-hanke
 - lätitia norkeit
 
+## Credits
+detailed credits for the single texts and other work done in the project can be found in the [credits.md](credits.md) file
+
 ## License
 
 all texts of graum.xyz are licensed under CC BY-SA 4.0 - see the [license.md](license.md) file for details
