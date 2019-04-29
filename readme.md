@@ -10,7 +10,7 @@ more information and detail at [graum.xyz](https://www.graum.xyz)
 
 in this repo you find all finished texts of the project as a complete set for convenient download
 
-we are planning to translate all texts to english (and possibly other languages in the future) and will attempt to do this here
+all texts are translated to english and hopefully will be to other languages in the future. we will attempt to do this here.
 
 ## Authors
 
