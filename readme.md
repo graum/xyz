@@ -1,5 +1,5 @@
 # Update 
-We moved our activities over to gitlab and this repo is no archival.  
+We moved our activities over to gitlab and this repo is now archival.  
 For the active one with updates please head over to our [graum gitlab](https://gitlab.com/graum/xyz).
 See you there!
 
